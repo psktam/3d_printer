@@ -4,3 +4,5 @@
 "belt_width"= 6mm
 "material_thickness"= 3mm
 "shaft_diam"= 8mm
+"bearing_od"= 22mm
+"bearing_thickness"= 7mm
