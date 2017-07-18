@@ -1,0 +1,6 @@
+﻿"pulley_pitch_diam"= 12.73mm
+"pulley_total_width"= 16mm
+"pulley_total_diam"= 16mm
+"belt_width"= 6mm
+"material_thickness"= 3mm
+"shaft_diam"= 8mm
